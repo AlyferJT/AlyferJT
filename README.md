@@ -2,9 +2,11 @@
 ### Hello! My name is Alyfer, i'm a FullStack student!
 
 ##
+
 <div>
-  <a><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'></a>
+  <a><img style='width:10px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'></a>
 </div>
+
 ##
 
 <div> 
