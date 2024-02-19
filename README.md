@@ -3,7 +3,7 @@
 
 ##
 <div>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
+  <a><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'></a>
 </div>
 ##
 
