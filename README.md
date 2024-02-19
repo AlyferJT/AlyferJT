@@ -4,12 +4,12 @@
 ##
 
 <div>
-  <img style='width:40px; height: 30px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
-  <img style='width:40px; height: 30px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
-  <img style='width:40px; height: 30px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
-  <img style='width:40px; height: 30px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
-  <img style='width:40px; height: 30px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
-  <img style='width:40px; height: 30px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg'>
+  <img style='width:55px; height: 45px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
+  <img style='width:55px; height: 45px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
+  <img style='width:55px; height: 45px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
+  <img style='width:55px; height: 45px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
+  <img style='width:55px; height: 45px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
+  <img style='width:55px; height: 45px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg'>
   
 </div>
 
