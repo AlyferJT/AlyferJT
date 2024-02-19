@@ -4,7 +4,7 @@
 ##
 
 <div>
-  <a><img style='width:10px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'></a>
+  <a><img style='width:30px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'></a>
 </div>
 
 ##
