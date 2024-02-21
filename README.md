@@ -10,6 +10,8 @@
   <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
   <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
   <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg'> 
+  <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
+  <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
 </div>
 
 ##
