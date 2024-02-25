@@ -9,7 +9,7 @@
     <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
     <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
     <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'> 
-    <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'> 
+   // <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'> 
   <h3>Back-end</h3>
     <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
     <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
