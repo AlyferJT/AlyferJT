@@ -13,8 +13,6 @@
     <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
     <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
     <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg'> 
-  <h3>Others</h3>
-    <img style='width:50px; height: 40px;' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
 </div>
 
 ##
