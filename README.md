@@ -24,5 +24,5 @@
 
 
 <div>
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alyferjt&theme=transparent&exclude=[html,css]' />
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alyferjt&theme=transparent&exclude=html,css' />
 </div>
