@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlyferJT/AlyferJT/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AlyferJT/AlyferJT/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
