@@ -21,3 +21,8 @@
   <a href="https://www.instagram.com/alyfer.j/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alyfer-jacobsen-tagliaferro-9b88b8231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+<div>
+  http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlyferJT&theme=transparent
+</div>
