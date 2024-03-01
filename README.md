@@ -1,4 +1,4 @@
-### Hi there, i'm a PERN Stack (waiting for the first experience job) developer
+### Hi there, i'm a PERN Stack (fighting for the first job) developer
 ### Currently deep diving in the front-end nightmares
 
 ##
