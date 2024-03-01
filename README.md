@@ -1,5 +1,5 @@
-### Olá! Meu nome é Alyfer, estudante FullStack!
-### Hello! My name is Alyfer, i'm a FullStack student!
+### Hi there, i'm a PERN Stack (waiting for the first experience job) developer
+### Currently deep diving in the front-end nightmares
 
 ##
 
