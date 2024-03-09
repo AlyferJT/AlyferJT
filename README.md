@@ -1,4 +1,4 @@
-### Hi there, i'm a PERN Stack (fighting for the first job) developer
+### Hi there, i'm a FullStack developer
 ### Currently deep diving in the front-end nightmares
 
 ##
