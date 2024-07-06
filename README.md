@@ -19,7 +19,7 @@
 
 ##
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />  
 </div>
