@@ -41,6 +41,8 @@
 ##
 
 <div align="center">
+  <h3 display="block">Contact me!</h3>
+  <a href="https://wa.me/+55996721179">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://wa.me/+55996721179" target="_blank">
