@@ -2,8 +2,8 @@
 
 ## 📫 Meu portfólio e redes sociais
 
-- Portfólio: [MySite](https://alyfer.netlify.app)  <!-- Update with your Twitter handle -->  
-- LinkedIn: [AlyferJT](https://www.linkedin.com/in/alyferjt)  <!-- Update with your LinkedIn profile -->  
+- [Portfólio](https://alyfer.netlify.app)  <!-- Update with your Twitter handle -->  
+- [LinkedIn](https://www.linkedin.com/in/alyferjt)  <!-- Update with your LinkedIn profile -->  
 - Email: userajt@gmail.com  <!-- Update with your email -->  
 
 
